@@ -1,0 +1,129 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+*.logs
+logs/
+
+# System files
+.AppleDouble
+.LSOverride
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.orig
+
+# OS-specific
+node_modules/
+.vagrant/
+*.vmdk
+*.iso
+
+# Script-specific
+*.sh~
+*.bash~
+.script_cache/
+
+# Output files
+*.out
+*.err
+output/
+results/
+
+# Configuration files (local overrides)
+.local/
+config.local
+settings.local
+
+# Credentials and secrets (NEVER commit these)
+.secrets/
+*.pem
+*.key
+*.cert
+credentials.txt
+api_keys.txt
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+.travis.yml
+Jenkinsfile
+
+# Archive files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Backup and recovery
+*.bkp
+*.recovery
+*.state
+
+# Node
+node_modules/
+npm-debug.log
+
+# Ruby
+Gemfile.lock
+*.gem
+
+# Misc
+.venv/
+.cache/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
